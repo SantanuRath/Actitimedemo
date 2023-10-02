@@ -29,7 +29,7 @@ public class CreateCustomer extends BaseClass{
 //		t.getSelecttbx().click();
 //		t.getOurcompanytbx().click();
 //		t.getCreatecustomertbx().click();	
-		Thread.sleep(4000);
+		//Thread.sleep(4000);
 //		String actualname = t.getActualcreatcusttbx().getText();
 //		Assert.assertEquals(actualname,expcustname);
 }
